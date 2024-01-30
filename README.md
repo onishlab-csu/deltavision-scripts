@@ -1,15 +1,15 @@
 # deltavision-scripts
 Scripts to work with deltavision files
 
-# dv2tif.py
+## dv2tif.py
 
-## required libraries
+### required libraries
 
 ```
 conda install -c conda-forge mrc tifffile
 ```
 
-## usage
+### usage
 
 ```
 python dv2tif.py dvfile.dv
