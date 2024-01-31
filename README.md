@@ -1,7 +1,7 @@
 # deltavision-scripts
 Scripts to work with deltavision files
 
-## dv2tif.py
+## dv2tiff.py
 
 Use the mrc library to read the deltavision format, which is no longer an active company. The script transfers the deltavision header fields into the tiff metadata as well.
 
