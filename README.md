@@ -3,7 +3,11 @@ Scripts to work with deltavision files
 
 ## dv2tiff.py
 
-Use the mrc library to read the deltavision format, which is no longer an active company. The script transfers the deltavision header fields into the tiff metadata as well.
+Quick script by David to just open a dv file and save as tiff.
+
+### details
+
+Uses the mrc library to read the deltavision format, which is no longer an active company. The script transfers the deltavision header fields into the tiff metadata as well.
 
 ### required libraries
 
